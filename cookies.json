@@ -1,0 +1,31 @@
+[
+    {
+        "domain": "siakad2.unpkediri.ac.id",
+        "httpOnly": false,
+        "name": "PHPSESSID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "p52912vbpf5rrc9j36ktbr9osv"
+    },
+    {
+        "domain": ".siakad2.unpkediri.ac.id",
+        "expiry": 1800000779,
+        "httpOnly": false,
+        "name": "sc_is_visitor_unique",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "rx13031167.1765440780.A49389B71BF14129BAEF615F79B28AC1.1.1.1.1.1.1.1.1.1"
+    },
+    {
+        "domain": "siakad2.unpkediri.ac.id",
+        "expiry": 1765527178,
+        "httpOnly": true,
+        "name": "sl-session",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "/j+pY4rOO2n7jZVPKxxJRg=="
+    }
+]
